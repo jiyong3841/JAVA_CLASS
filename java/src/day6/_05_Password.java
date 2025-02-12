@@ -21,7 +21,7 @@ public class _05_Password {
 				return;
 			}
 			if(attempts == max_attempts) {
-				System.out.println("비밂번호 3회 오류! 강제잠금 실행!");
+				System.out.println("비밀번호 3회 오류! 강제잠금 실행!");
 				return;
 			}
 		}while(true);

@@ -1,5 +1,7 @@
 package day6;
 
+import java.util.Scanner;
+
 public class _08_Random {
 
 	public static void main(String[] args) {

@@ -28,7 +28,7 @@ public class _03_print {
 		// 상수값을 연결할땐 +을 사용함
 		System.out.println("덧셈 결과는 : " + (3+5));
 		System.out.println("뺄셈 결과는 :"+(3-5));
-		System.out.println("곱셈 결과는 :" +(3*5)"입니다"));
+		System.out.println("곱셈 결과는 :" + (3*5) +"입니다");
 	}
 
 }

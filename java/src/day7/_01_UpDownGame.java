@@ -17,6 +17,7 @@ public class _01_UpDownGame {
 		int randomNum = (int)(Math.random()*50)+1;
 		
 		Scanner numInput = new Scanner(System.in);
+		
 		boolean match = false;
 		
 		for(int i = 5; i >=1; i--) {
@@ -33,6 +34,7 @@ public class _01_UpDownGame {
 				System.out.println("업");
 			}
 		}
+		
 		if(!match) {
 			System.out.println("기회를 전부 소진하였습니다.");
 		}
